@@ -1,0 +1,35 @@
+70 34
+add 25
+add 20
+remove 20
+remove 25
+query
+query
+query
+query
+query
+add 18
+remove 18
+query
+add 15
+query
+remove 15
+add 65
+add 65
+remove 65
+add 35
+query
+query
+remove 35
+query
+query
+add 20
+add 26
+remove 26
+remove 20
+query
+add 24
+add 14
+query
+remove 24
+query

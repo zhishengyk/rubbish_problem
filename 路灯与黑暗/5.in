@@ -1,0 +1,12 @@
+36 11
+add 4
+add 31
+add 32
+add 19
+query
+query
+remove 4
+add 19
+remove 31
+add 20
+add 2
