@@ -1,0 +1,1 @@
+This is a very long input line with multiple # corrections ### and @ deletions@. The final output should only contain the last part after all corrections and deletions. Here are some mistakes: int x = 1#2#3#4#5; char s[] = "hello###world"; printf("test@ing");@ Now the correct output is: final result.
